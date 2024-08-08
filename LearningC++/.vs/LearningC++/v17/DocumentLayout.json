@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|solutionrelative:LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|solutionrelative:LearningC\u002B\u002B\\LearningC\u002B\u002B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|solutionrelative:LearningC\u002B\u002B\\Strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Notes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C335F8-450D-4B6B-8E9E-60D9F9A776BC}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|solutionrelative:LearningC\u002B\u002B\\Notes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strings.cpp",
+              "DocumentMoniker": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Strings.cpp",
+              "RelativeDocumentMoniker": "LearningC\u002B\u002B\\Strings.cpp",
+              "ToolTip": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Strings.cpp",
+              "RelativeToolTip": "LearningC\u002B\u002B\\Strings.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwHIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T13:27:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearningC\u002B\u002B.h",
+              "DocumentMoniker": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.h",
+              "RelativeDocumentMoniker": "LearningC\u002B\u002B\\LearningC\u002B\u002B.h",
+              "ToolTip": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.h",
+              "RelativeToolTip": "LearningC\u002B\u002B\\LearningC\u002B\u002B.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T12:22:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notes.c",
+              "DocumentMoniker": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Notes.c",
+              "RelativeDocumentMoniker": "LearningC\u002B\u002B\\Notes.c",
+              "ToolTip": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\Notes.c",
+              "RelativeToolTip": "LearningC\u002B\u002B\\Notes.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-08T11:54:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearningC\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\jkbea\\source\\repos\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
+              "RelativeToolTip": "LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T11:53:26.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
