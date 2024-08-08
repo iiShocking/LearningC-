@@ -38,7 +38,7 @@ void ArithmeticOperators() {
 }
 
 void AssignmentOperators() {
-	std::cout << "\Assignment Operators\n";
+	std::cout << "\nAssignment Operators\n";
 	float x = 10;
 	float y = 5;
 
@@ -87,7 +87,7 @@ void AssignmentOperators() {
 }
 
 void ComparisonOperators() {
-	std::cout << "\Comparison Operators\n";
+	std::cout << "\nComparison Operators\n";
 	float x = 10;
 	float y = 5;
 	//Comparison Operators -------------------------------------------------------------------------------------
@@ -125,7 +125,7 @@ void ComparisonOperators() {
 }
 
 void LogicalOperators() {
-	std::cout << "\Logical Operators\n";
+	std::cout << "\nLogical Operators\n";
 	float x = 10;
 	float y = 5;
 	//Logical Operators -------------------------------------------------------------------------------------

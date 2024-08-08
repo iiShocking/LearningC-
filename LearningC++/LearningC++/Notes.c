@@ -1,5 +1,5 @@
 /* 
-C++ is a cross platform language, developed as an extention to the 'C' language
+C++ is a cross platform language, developed as an extension to the 'C' language
 C++ gives a high level of control over memory and resources
 C++ is an OOP language, allowing easily reusable code
 
@@ -21,7 +21,7 @@ Multi-line comments are with /*
 General Notes:
 C++ works top-down meaning any function created after the line it's called in will be undetected unless defined prior
 cout is used for output, using the insertion operator '<<'
-cin is used for input, using the extraction operatior '>>'
+cin is used for input, using the extraction operator '>>'
 C++ has 0-based indexing
 Including std namespace is personal preference, you can just use std:: before respective uses
 Strings can be made with either string library or char arrays, the latter being used due to C specific methods available to it
