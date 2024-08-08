@@ -40,4 +40,7 @@ switches are in switch , case, default format
 
 Loops:
 Do While loops perform the logic before the condition check
+For each loops written as for(int i : list)
+Break exits a loops
+Continue skips the iteration
 */
