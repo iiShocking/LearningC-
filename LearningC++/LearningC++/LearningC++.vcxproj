@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="LearningC++.cpp" />
+    <ClCompile Include="Maths.cpp" />
     <ClCompile Include="Notes.c" />
     <ClCompile Include="Operators.cpp" />
     <ClCompile Include="Strings.cpp" />

@@ -33,4 +33,11 @@ double - stores floating point numbers - 8 bytes ... double has higher precision
 char - stores single characters - 1 byte ... must be surrounded by single quotes '' .. ASCII values can be assigned
 string - stores text - list of chars ... must be surrounded by double quotes ""
 bool - stores true / false value - 1 byte ... Printing a bool prints 0 , 1
+
+Conditions:
+if/else can be written as string result = (time < 18) ? "Good day." : "Good evening.";
+switches are in switch , case, default format
+
+Loops:
+Do While loops perform the logic before the condition check
 */

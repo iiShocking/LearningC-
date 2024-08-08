@@ -17,6 +17,7 @@ int main()
 	StringSpecialCharacters();
 	//StringInputting();
 	CStrings();
-	
+	BasicMaths();
+	CMath();
 	return 0;
 }

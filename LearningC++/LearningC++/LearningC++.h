@@ -15,3 +15,5 @@ void StringAccessing();
 void StringSpecialCharacters();
 void StringInputting();
 void CStrings();
+void BasicMaths();
+void CMath();
